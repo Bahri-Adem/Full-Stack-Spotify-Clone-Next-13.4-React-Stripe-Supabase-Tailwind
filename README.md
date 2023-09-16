@@ -50,17 +50,17 @@ This project is a clone of the popular music streaming service, Spotify. It is a
 
 ```shell
 git clone https://github.com/Bahri_Adem/Full-Stack-Spotify-Clone-Next-13.4-React-Stripe-Supabase-Tailwind.git
-
+```
 2. Change into the project directory:
 
 ```shell
 cd Full-Stack-Spotify-Clone-Next-13.4-React-Stripe-Supabase-Tailwind
-
+```
 3. Install the project dependencies:
 
 ```shell
 npm install
-
+```
 
 ### Configuration
 
@@ -82,7 +82,7 @@ STRIPE_WEBHOOK_SECRET=
 
 ```shell
 npm run dev
-
+```
 2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the application.
 
 ## Contributing
