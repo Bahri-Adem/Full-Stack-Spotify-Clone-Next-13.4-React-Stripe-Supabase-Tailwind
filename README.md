@@ -1,7 +1,6 @@
 # Full Stack Spotify Clone
 
 A full-stack Spotify clone built with Next.js, React, Stripe, Supabase, PostgreSQL, and Tailwind CSS.
-
 ![Demo GIF](demo.gif)
 
 ## Introduction
