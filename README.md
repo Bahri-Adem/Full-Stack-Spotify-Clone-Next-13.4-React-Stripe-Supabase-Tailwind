@@ -1,5 +1,7 @@
 # Full Stack Spotify Clone
 
+Live Application: https://full-stack-spotify-clone-next-13-4-react-stripe-supa-6u8l4u4uk.vercel.app/
+
 A full-stack Spotify clone built with Next.js, React, Stripe, Supabase, PostgreSQL, and Tailwind CSS.
 ![Demo GIF](
 
